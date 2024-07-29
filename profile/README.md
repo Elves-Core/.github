@@ -1,4 +1,3 @@
-```md
 ![Elves Core GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
 
 <h1 align="center">Welcome to Elves Core</h1>
@@ -50,20 +49,8 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Our Service:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvescore&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10" alt="elvescore" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvescore&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="elvescore" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvescore&show_icons=true&locale=en&theme=tokyonight" alt="elvescore" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvescore&theme=tokyonight" alt="elvescore" /></p>
-
-<ul>
-  <li>エルフ ソリューション</li>
-  <li>Webペネトレーションテスト</li>
-  <li>モバイル ペネトレーションテ
-
-スト</li>
-  <li>ネットワーク 侵入テスト</li>
-  <li>クラウドセキュリティ評価</li>
-</ul>
-```
