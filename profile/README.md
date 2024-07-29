@@ -8,8 +8,8 @@
 
 - 🌱 We are always exploring the latest in **cybersecurity technologies**
 
-- 👨‍💻 Discover more about our services at [Elves Core](https://elvescore.io)
-- 👨‍💻 Discover more about our services at [Elves Core](https://elvescore.jp)
+- 👨‍💻 Discover more about our services In English at [Elves Core](https://elvescore.io)
+- 👨‍💻 Discover more about our services In Japanese at [Elves Core](https://elvescore.jp)
 
 - 💬 Reach out to us for **penetration testing and cybersecurity solutions**
 
