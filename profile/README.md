@@ -1,8 +1,6 @@
 
- <center>
- <img src="https://i0.wp.com/elvescore.io/agycicha/2024/03/logo-1-2.png" alt="elvescore"  width="400"  height="75"/>
-  </center>
-
+ 
+<align="center">Your Trusted Partner in Comprehensive Security Testing <img src="https://i0.wp.com/elvescore.io/agycicha/2024/03/logo-1-2.png" alt="elvescore"  width="400"  height="75"/>
 <h3 align="center">Your Trusted Partner in Comprehensive Security Testing</h3>
 <img align="right" alt="Security Testing" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvescore&label=Profile%20views&color=0e75b6&style=flat" alt="elvescore" /> </p>
