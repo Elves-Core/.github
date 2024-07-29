@@ -14,7 +14,13 @@
 
 - 📫 How to contact us **info@elvescore.jp**
 
-- ⚡ Fun fact **We are a team of passionate white hat hackers**
+- ⚡fact **We are a team of passionate white hat hackers**
+- 
+Sekai 30-kakoku-chō kara sanka suru 1000-mei o koeru tayōna sukiru o motta howaitohakkā shūdan ga penetorēshontesuto o okonai, onsha no saito o mamorimasu. Heishade wa, kigyō kibo ni kakawarazu, motto midjikade yori kyōkona shisutemu o kōchiku suru tame ni, tei yosan de jisshi dekiru saibāsekyuriti taisaku o go teian itashimasu. Howaitohakkā ni yoru saibāsekyuriti taisaku de, ichido risuku hyōka o shite mimasen ka?
+Show more
+180 / 5,000
+A group of over 1,000 white hat hackers with diverse skills from over 30 countries around the world will conduct penetration tests to protect your site.
+Regardless of the size of your company, we offer cybersecurity measures that can be implemented on a low budget to build a more accessible and robust system. Why not try a risk assessment with cybersecurity measures by white hat hackers?
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
