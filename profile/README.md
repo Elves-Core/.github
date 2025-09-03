@@ -47,8 +47,8 @@ We empower organizations to defend against modern threats by simulating real-wor
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberCrewInc&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberCrewInc&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cybercrewjp&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybercrewjp&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---
