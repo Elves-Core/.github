@@ -69,3 +69,22 @@ We empower organizations to defend against modern threats by simulating real-wor
 > “We break things to make them stronger.”
 
 ---
+## 📊 GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/CyberCrewInc/cve-feed-translator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberCrewInc&repo=cve-feed-translator&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/CyberCrewInc/phishing-sim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberCrewInc&repo=phishing-sim&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/CyberCrewInc/mini-soc">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CyberCrewInc&repo=mini-soc&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/CyberCrewInc/mini-soc#contributors">
+    <img src="https://contrib.rocks/image?repo=CyberCrewInc/mini-soc" alt="Contributors for mini-soc"/>
+  </a>
+</p>
