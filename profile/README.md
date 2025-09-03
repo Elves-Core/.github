@@ -37,10 +37,10 @@ We help organizations stay ahead of threats by simulating attacks and building s
 ## 🔍 Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| 🔧 [CVE Feed Translator](https://github.com/CyberCrewInc/cve-feed-translator) | Sync, translate, and auto-publish CVEs from RSS feeds. |
-| 🎣 [Phishing Simulator](https://github.com/CyberCrewInc/phishing-sim) | Custom phishing campaign framework for red teamers. |
-| 📊 [Mini SOC Dashboard](https://github.com/CyberCrewInc/mini-soc) | Lightweight Security Operations Center dashboard powered by Wazuh. |
+|---------|-------------|
+| 👽 [Alien Gate](https://github.com/CyberCrewInc/alien-gate) | Sync, translate, and auto-publish CVEs from RSS feeds. |
+| 🌐 [Web Checker](https://github.com/CyberCrewInc/web-checker) | Custom framework for testing and monitoring web security. |
+| 📑 [Tempreport Generator](https://github.com/CyberCrewInc/tempreport-generator) | Automated report generation tool for security assessments. |
 
 ---
 
