@@ -38,8 +38,8 @@ We help organizations stay ahead of threats by simulating attacks and building s
 
 | Project | Description |
 |---------|-------------|
-| 👽 [Alien Gate](https://github.com/CyberCrewInc/alien-gate) | Sync, translate, and auto-publish CVEs from RSS feeds. |
-| 🌐 [Web Checker](https://github.com/CyberCrewInc/web-checker) | Custom framework for testing and monitoring web security. |
+| 👽 [Alien Gate](https://github.com/CyberCrewInc/alien-gate) | Digital risk protection platform. |
+| 🌐 [Web Checker](https://github.com/CyberCrewInc/web-checker) | X-Ray Vision for Your Website's Security. |
 | 📑 [Tempreport Generator](https://github.com/CyberCrewInc/tempreport-generator) | Automated report generation tool for security assessments. |
 
 ---
